@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Wang Yunya / https://aliya.github.io"
+title                    : "Wang Yunya / https://eureka-wong.github.io"
 title_separator          : "-"
 name                     : &name "Wang Yunya"
 description              : &description "personal description"
 url                      : https://aliya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Eureka-wong/aliya.github.io"
+repository               : "eureka-wong.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://twitter.com/@aliya_wong95789"# Username for X / Twitter
+  twitter          : "aliya_wong95789"# Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
