@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-#title                    : "Wang Yunya / https://aliya.github.io"
+title                    : "Wang Yunya / https://aliya.github.io"
 title_separator          : "-"
 name                     : &name "Wang Yunya"
 description              : &description "personal description"
@@ -22,20 +22,20 @@ repository               : "Eureka-wong/aliya.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wang Yunya"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Date Science undergraduate student at the Chinese University of HongKong, Shenzhen"
+  location         : "Shenzhen,China"
+  #employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "aliyawong05@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #impactstory      : # URL
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
@@ -201,16 +201,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: False
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: False
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: False
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: False
     permalink: /:collection/:path/
 
 
